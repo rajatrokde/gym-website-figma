@@ -1,1 +1,3 @@
-# gym-website-figma
+# gym-website-figma 
+
+git clone repo 
